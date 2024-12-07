@@ -1,5 +1,4 @@
 # Predict-Price-of-a-Car
-INTRO
 This project employs Gradient Boosting algorithm to predict car prices based on features such as brand, mileage, and year of manufacture. This is a supervised regression ML task.
 
 Gradient Boosting is another ensemble technique, but unlike Random Forest, it builds trees sequentially (hence the name “Gradient”, which means in steps). Each subsequent tree aims to correct the errors of the previous trees by minimizing a loss function (hence the name “Boosting”, that is, prediction accuracy is boosted).
